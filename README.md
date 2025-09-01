@@ -5,3 +5,6 @@ Track Key Performance Indicators (KPIs) such as total sales, total profit, quant
 Analyze sales trends across regions, products, and time periods to identify growth opportunities.
 Simplify complex datasets into visual insights for quick decision-making by stakeholders.
 Support business strategy and planning by highlighting top-performing products, customer trends, and operational bottlenecks.
+## Dataset Used
+Source: Amazon Sales Data (Kaggle Example Dataset)
+- <a href = "https://github.com/Swamy12S/Amazon-Sales-Dashboard-using-Power-BI/blob/main/amazon_sales_data%202025.csv"> Dataset</a>
