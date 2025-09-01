@@ -50,7 +50,7 @@ Source: Amazon Sales Data (Kaggle Example Dataset)
 - Built a colorful, interactive dashboard in Power BI.
 - Helped track business performance with KPIs.
 - Provided decision-making insights for sales strategy.
-- Project showcases skills in Data Cleaning, DAX, Dashboard Design, and Business Insights.
+- Project showcases skills in Data Cleaning, DAX, Dashboard Design, and Business Insights
 
 
 
