@@ -1,5 +1,5 @@
-#Amazon Sales Dashboard – Power BI
-##Project Objective
+# Amazon Sales Dashboard – Power BI
+## Project Objective
 project is to design and develop an interactive Power BI dashboard that provides actionable insights from Amazon sales data. The dashboard aims to:
 Track Key Performance Indicators (KPIs) such as total sales, total profit, quantity sold, average delivery time, and category-wise performance.
 Analyze sales trends across regions, products, and time periods to identify growth opportunities.
