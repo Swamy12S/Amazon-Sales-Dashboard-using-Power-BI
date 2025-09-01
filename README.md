@@ -8,3 +8,36 @@ Support business strategy and planning by highlighting top-performing products, 
 ## Dataset Used
 Source: Amazon Sales Data (Kaggle Example Dataset)
 - <a href = "https://github.com/Swamy12S/Amazon-Sales-Dashboard-using-Power-BI/blob/main/amazon_sales_data%202025.csv"> Dataset</a>
+## Questions (KPIs)
+1. Total Sales – What is the overall revenue?
+2. Total Profit – How much profit was generated?
+3. Total Orders – How many orders were placed?
+4. Total Quantity Sold – How many items were sold?
+5. Customer Insights – Which region has the highest sales?
+6. Category Performance – Which product category generates maximum revenue?
+7. Payment Analysis – Which payment mode is most popular?
+8. Trend Analysis – How do monthly sales & profit change over time?
+
+-Dashboard Interaction <a href =  "https://github.com/Swamy12S/Amazon-Sales-Dashboard-using-Power-BI/blob/main/Screenshot%202025-09-01%20113032.png"> View Dashboard</a>
+
+## Process 
+1. Data Preparation
+- Imported CSV dataset
+- Cleaned data in Power Query (removed nulls, duplicates, formatted columns)
+
+2. Data Modeling
+- Defined relationships between tables
+- Created calculated measures in DAX (Sales, Profit, Orders, Avg. Profit Margin)
+
+3. Visualization
+- Used KPI Cards (Sales, Profit, Orders, Quantity)
+- Created Bar, Line, Pie, and Map charts
+- Added Slicers for Region, Category, and Date
+
+4. Interactivity
+- Drill-through enabled
+- Filters applied for better insights
+
+
+
+
