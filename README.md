@@ -40,6 +40,18 @@ Source: Amazon Sales Data (Kaggle Example Dataset)
 ## Dashboard :
 <img width="1372" height="764" alt="Screenshot 2025-09-01 113032" src="https://github.com/user-attachments/assets/e945c2c3-36f7-44af-91c6-c1af8e220ede" />
 
+## Project Insights :
+- Sales Trend: Sales peak in festive months (Oct–Dec).
+- Category Performance: Electronics contributes the most sales.
+- Profit Analysis: Furniture has high sales but lower profit margins.
+- Regional Insights: North region dominates sales, while South shows growth potential.
+- Payment Insights: Credit Card is the most used payment mode.
+## Final Conclusion :
+- Built a colorful, interactive dashboard in Power BI.
+- Helped track business performance with KPIs.
+- Provided decision-making insights for sales strategy.
+- Project showcases skills in Data Cleaning, DAX, Dashboard Design, and Business Insights.
+
 
 
 
